@@ -1,0 +1,33 @@
+.navbar{
+    display: flex;
+    padding-top: 1%;
+    justify-content: right;
+}
+
+
+.navbar ul{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+}
+
+.navbar .a{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-right: 33%;
+}
+
+.navbar .b{
+    padding-right: 6%;
+}
+
+.navbar li{
+    margin-right: 20%;
+    font-size: 110%;
+    text-decoration: none;
+}
+
+.navbar a{
+    text-decoration: none;
+}

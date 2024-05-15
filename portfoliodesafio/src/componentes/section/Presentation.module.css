@@ -1,0 +1,22 @@
+.presentation{
+    margin-top: 5%;
+}
+
+.presentation h1{
+    text-align: left;
+    margin-left: 6%;
+    font-size: 300%;
+}
+
+.presentation p{
+    text-align: left;
+    color: rgba(188, 188, 188, 1);
+    font-size: 140%;
+    margin-left: 10%;
+}
+
+.presentation Button{
+    cursor: pointer;
+    margin-left: -65%;
+    margin-top: 3%;
+}

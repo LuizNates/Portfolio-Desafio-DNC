@@ -1,0 +1,37 @@
+.timeline{
+    margin-top: 15%;
+}
+
+.timeline h1{
+    text-align: left;
+    margin-left: 6%;
+    font-size: 250%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.timeline img{
+    width: 75%;
+}
+
+.timeline #year{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.timeline #year p{
+    font-size: 150%;
+}
+
+.timeline #acontecimentos{
+    display: flex;
+    justify-content: row;
+    align-items: center;
+}
+
+#acontecimentos p{
+    max-width: 20%;
+    margin-left: 5%;
+    font-weight: 100%;
+}

@@ -1,0 +1,17 @@
+
+.projects h1{
+    text-align: left;
+    margin-left: 6%;
+    font-size: 250%;
+    margin-top: 5%;
+}
+
+.projects #dupla1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.projects #dupla2{
+    display: flex;
+    justify-content: space-around;
+}
